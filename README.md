@@ -15,4 +15,4 @@ Model accuracy is low at 0.67. Do not use this model to inform any real life dec
 # Note
 * This comes with absolutely no warranty
 * Free software under MIT license
-* Please contact James McKee for any questions re
+* Please contact James McKee for any questions relating to usage
