@@ -7,11 +7,11 @@ Note: the data set is too big to host on github and should be downloaded separat
 Install requirements with:
 pip install -r requirements.txt
 
-depression_eda.ipynb has an exploratory data analysis of the data set where correlations between variables are explored \
+depression_eda.ipynb has an exploratory data analysis of the data set where correlations between variables are explored 
 
-build_mental_health_model.ipynb trains and tests a random forest model to predict whether a person will have a history of mental illness \
+build_mental_health_model.ipynb trains and tests a random forest model to predict whether a person will have a history of mental illness 
 
-Model accuracy is low at 0.67. Do not use this model to inform any real life decisions. \
+Model accuracy is low at 0.67. Do not use this model to inform any real life decisions. 
 
 
 # Note
